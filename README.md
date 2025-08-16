@@ -44,7 +44,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 https://www.linkedin.com/in/ayush-mark-hembrom-22050333b/
+- 💼 https://www.linkedin.com/in/ayushmarkhembrom/
 - 📧 ayushmarkhembrom@gmail.com
 - 🎮 [My Games & Projects](https://github.com/M4Rk9?tab=repositories)
 
