@@ -11,7 +11,6 @@
 - 💻 I code in **Java**, **C**, and **Python**, and love solving problems with **DSA**
 - 🎮 I’ve built 2 indie games using **Unreal Engine 4.27** — action adventure + multiplayer
 - 📊 Currently expanding into **Fintech & Software Projects** like expense trackers and stock prediction systems
-- ♟️ I'm also a **chess enthusiast** and passionate about **fitness** (training regularly for over 3 years)
 - 🚀 Founder of my indie game studio concept: **Markiiees – Something Special**
 
 ---
@@ -30,7 +29,6 @@
 
 ### 🔥 My Current Focus
 - 🚧 Building fintech-focused web apps and ML models
-- 🧠 Solving 300+ DSA problems on **LeetCode**
 - 🏆 Upskilling via **Udemy** certifications in DSA, Python, and Fintech
 
 ---
