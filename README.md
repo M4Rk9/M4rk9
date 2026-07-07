@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Mark Hembrom</h1>
 
 <p align="center">
-  3rd Year B.Tech ECE @ BIT Mesra • Software Development Intern Aspirant • Java | DSA | Full-Stack Web
+  3rd Year B.Tech ECE @ BIT Mesra • Management Lead @ Team Srijan • Java | DSA | Full-Stack Web
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🎓 3rd-year **B.Tech Electronics & Communication Engineering** student at **Birla Institute of Technology, Mesra**.
 - 💻 Targeting **software development internships** with strong fundamentals in **Java, Data Structures & Algorithms, OOP, REST APIs, DBMS, and Computer Networks**.
 - 🌐 Building full-stack applications using **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, and Tailwind CSS**.
-- 🏎️ Technical Member and FSAE Driver at **Team Srijan, BIT Mesra**, contributing to web development, documentation, and sponsor-facing deliverables.
+- 🏎️ **Management Lead at Team Srijan, BIT Mesra**, working across sponsorship decks, cold calls/emails, web development, design, and sponsor-facing communication.
 - 📈 Currently building a **Stock Market Trading Simulator** with virtual balance, buy/sell workflows, portfolio tracking, transaction history, and P&L calculations.
 
 ---
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Databases & Tools
+### Databases & Developer Tools
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -61,6 +61,21 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+---
+
+
+### Management, Design & Productivity
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+- Sponsorship deck creation and presentation structuring
+- Cold calling and cold emailing for sponsor outreach
+- Visual design for team branding, proposals, and sponsor communication
+- Excel-based tracking for outreach, sponsorship leads, and team documentation
 
 ---
 
@@ -99,8 +114,11 @@
 
 ## 🏆 Leadership & Achievements
 
-- 🏎️ **Technical Member and FSAE Driver**, Team Srijan, BIT Mesra.
-- 🥇 Contributed to web development, sponsor-facing communication, and team documentation.
+- 🏎️ **Management Lead**, Team Srijan, BIT Mesra.
+- 🤝 Lead and support sponsor outreach through **cold calls, cold emails, sponsorship decks, and proposal design**.
+- 🌐 Contribute to **web development and digital presence** for Team Srijan through the official website and sponsor-facing content.
+- 🎨 Work on visual design and communication assets using **Canva, PowerPoint, and presentation-first storytelling**.
+- 📊 Use **Excel** for tracking outreach, sponsor leads, documentation, and internal management workflows.
 - 📘 Qualified **6th nationwide** in the **Formula Bharat Rulebook Quiz** with Team Srijan.
 - 🏁 Participating in **Formula Bharat 2027** with car number **06**.
 - 🤝 Comfortable working in multidisciplinary teams involving engineering design, procurement, sponsorship, deadlines, and public-facing deliverables.
