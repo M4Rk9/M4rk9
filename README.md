@@ -1,156 +1,121 @@
-<h1 align="center">Hi 👋, I'm Ayush Mark Hembrom</h1>
+<div align="center">
+  <img src="./assets/ai-solar-system.svg" width="100%" alt="Ayush Mark Hembrom — AI and software engineering solar system" />
 
-<p align="center">
-  3rd Year B.Tech ECE @ BIT Mesra • Management Lead @ Team Srijan • Java | DSA | Full-Stack Web
-</p>
+  <br />
 
-<p align="center">
   <a href="https://www.linkedin.com/in/ayushmarkhembrom/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Mark%20Hembrom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ayushmarkhembrom@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayushmarkhembrom%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Start_a_conversation-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/M4Rk9">
-    <img src="https://img.shields.io/badge/GitHub-M4Rk9-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/M4Rk9?tab=repositories">
+    <img src="https://img.shields.io/badge/Code-Explore_repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=M4Rk9&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
 
----
+  <br /><br />
 
-## 👨‍💻 About Me
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=7DCFFF&center=true&vCenter=true&width=900&lines=Java+%2B+Spring+Boot+backend+engineering;Full-stack+products+with+Next.js+%26+TypeScript;AI-enabled+systems+with+Spring+AI+%26+Python;Building+reliable+software%2C+not+just+demos" alt="Animated developer roles" />
+</div>
 
-- 🎓 3rd-year **B.Tech Electronics & Communication Engineering** student at **Birla Institute of Technology, Mesra**.
-- 💻 Targeting **software development internships** with strong fundamentals in **Java, Data Structures & Algorithms, OOP, REST APIs, DBMS, and Computer Networks**.
-- 🌐 Building full-stack applications using **React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, and Tailwind CSS**.
-- 🏎️ **Management Lead at Team Srijan, BIT Mesra**, working across sponsorship decks, cold calls/emails, web development, design, and sponsor-facing communication.
-- 📈 Currently building a **Stock Market Trading Simulator** with virtual balance, buy/sell workflows, portfolio tracking, transaction history, and P&L calculations.
+## Mission Control
 
----
+I’m **Ayush Mark Hembrom**, a third-year **Electronics & Communication Engineering** undergraduate at **Birla Institute of Technology, Mesra** and a full-stack developer focused on building dependable, production-oriented software.
 
-## 🛠️ Technical Skills
+My work spans the complete product orbit: **Java and Spring Boot services**, **REST APIs and real-time systems**, **Next.js interfaces**, **data infrastructure**, and **AI-enabled applications** using **Spring AI and Python**. I’m especially interested in fintech, intelligent automation, and engineering products that solve real problems beyond a demo environment.
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>⚙️ Engineering Core</strong><br /><br />
+      Java · Spring Boot · REST APIs<br />
+      OOP · DSA · System Design<br />
+      WebSockets · Testing · CI/CD
+    </td>
+    <td width="33%" valign="top">
+      <strong>🛰️ Product Layer</strong><br /><br />
+      TypeScript · JavaScript<br />
+      Next.js · React · HTML · CSS<br />
+      Responsive, accessible interfaces
+    </td>
+    <td width="33%" valign="top">
+      <strong>🧠 Intelligence Layer</strong><br /><br />
+      Spring AI · Python · Machine Learning<br />
+      LLM integration · Signal processing<br />
+      Data-driven product features
+    </td>
+  </tr>
+</table>
 
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+## Technology Orbit
 
-### Databases & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,html,css,react,nextjs,nodejs,express,postgres,mysql,mongodb,redis,docker,git,github,postman,aws&perline=10&theme=dark" alt="Technology stack" />
+</div>
 
----
+<br />
 
+| Layer | Technologies |
+|---|---|
+| **Backend & AI** | Java, Spring Boot, Spring AI, Python, REST APIs, WebSockets |
+| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Flyway |
+| **Engineering** | Git, GitHub Actions, Docker, Testcontainers, Playwright, Postman, AWS |
 
-### Management, Design & Productivity
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+## Systems in Orbit
 
-- Sponsorship deck creation and presentation structuring
-- Cold calling and cold emailing for sponsor outreach
-- Visual design for team branding, proposals, and sponsor communication
-- Excel-based tracking for outreach, sponsorship leads, and team documentation
+### StoxSim — Multi-Market Paper-Trading Platform
 
----
+A production-oriented fintech platform for practising Indian and US markets without risking real capital. The system combines a **Java 21 / Spring Boot backend**, **Next.js frontend**, **PostgreSQL**, **Redis**, real-time market updates, portfolio accounting, simulated orders, automated testing, and containerised deployment.
 
-## 🚀 Featured Projects
+`Java` `Spring Boot` `Next.js` `TypeScript` `PostgreSQL` `Redis` `WebSockets` `Docker` `GitHub Actions`
 
-### 🏎️ Team Srijan Official Website
-**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS, Vercel  
+[Explore StoxSim →](https://github.com/M4Rk9/stoxsim)
 
-- Developed and deployed the official website for **Team Srijan**, BIT Mesra's Formula Student team.
-- Built responsive sections for garage, sponsors, achievements, gallery, team structure, and vehicle archives.
-- Implemented reusable React components, SEO metadata, optimized assets, and production deployment on Vercel.
-- Improved the team's sponsor-facing digital presence by organizing achievements, vehicles, and sponsorship details into a clean public web experience.
+### Team Srijan — Official Formula Student Website
 
-🔗 **Live Website:** [teamsrijan.vercel.app](https://teamsrijan.vercel.app/)  
-📂 **Repository:** [Team-Srijan](https://github.com/M4Rk9/Team-Srijan)
+The public digital platform for Birla Institute of Technology, Mesra’s Formula Student team. Built as a responsive production website with structured team, car, sponsor, recruitment, and institutional content.
 
----
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Responsive UI` `Production Deployment`
 
-### 📈 Stock Market Trading Simulator
-**Tech Stack:** React/Next.js, Node.js, JavaScript/TypeScript, Database  
+[Visit teamsrijan.in →](https://teamsrijan.in) · [View repository →](https://github.com/M4Rk9/Team-Srijan)
 
-- Building a beginner-friendly virtual trading simulator with a default **USD 10,000** balance.
-- Implementing buy/sell workflows, portfolio tracking, transaction history, watchlists, and P&L calculations.
-- Designing data models for users, holdings, orders, and stock watchlists.
-- Practicing full-stack concepts including state management, API integration, authentication-ready architecture, and database-backed portfolios.
+### Bearing Fault Diagnosis — Applied AI for Vibration Signals
 
----
+An ECE-focused machine-learning pipeline that classifies bearing health using time-domain and frequency-domain features, classical ML models, and a 1D convolutional neural network on vibration signals.
 
-### ☕ Java DSA Practice Repository
-**Tech Stack:** Java, Data Structures & Algorithms  
+`Python` `Signal Processing` `FFT` `SVM` `Random Forest` `1D-CNN` `Streamlit`
 
-- Solving DSA problems in Java across arrays, strings, recursion, linked lists, stacks, queues, trees, hashing, sorting, and searching.
-- Writing clean, OOP-oriented solutions with focus on edge cases, time complexity, and space complexity.
+[Explore the ML pipeline →](https://github.com/M4Rk9/bearing-fault-diagnosis)
 
----
+## Live Developer Telemetry
 
-## 🏆 Leadership & Achievements
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=M4Rk9&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ayush's GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Rk9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most-used languages" />
+</div>
 
-- 🏎️ **Management Lead**, Team Srijan, BIT Mesra.
-- 🤝 Lead and support sponsor outreach through **cold calls, cold emails, sponsorship decks, and proposal design**.
-- 🌐 Contribute to **web development and digital presence** for Team Srijan through the official website and sponsor-facing content.
-- 🎨 Work on visual design and communication assets using **Canva, PowerPoint, and presentation-first storytelling**.
-- 📊 Use **Excel** for tracking outreach, sponsor leads, documentation, and internal management workflows.
-- 📘 Qualified **6th nationwide** in the **Formula Bharat Rulebook Quiz** with Team Srijan.
-- 🏁 Participating in **Formula Bharat 2027** with car number **06**.
-- 🤝 Comfortable working in multidisciplinary teams involving engineering design, procurement, sponsorship, deadlines, and public-facing deliverables.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=M4Rk9&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+</div>
 
----
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M4Rk9&bg_color=0d1117&color=7dcfff&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Live GitHub contribution activity graph" />
+</div>
 
-## 🎯 Current Focus
+## Current Flight Path
 
-- Strengthening **Java DSA** for internship coding rounds.
-- Building production-grade **full-stack web projects**.
-- Improving backend fundamentals: **REST APIs, databases, authentication, and deployment**.
-- Exploring software, fintech, analytics, and product-focused internship opportunities.
+```text
+01  Build production-grade Java and Spring systems
+02  Strengthen data structures, algorithms, and system design
+03  Integrate AI into useful, measurable product workflows
+04  Ship software that earns real users and survives real usage
+```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4Rk9&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Rk9&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/ayushmarkhembrom](https://www.linkedin.com/in/ayushmarkhembrom/)
-- 📧 **Email:** [ayushmarkhembrom@gmail.com](mailto:ayushmarkhembrom@gmail.com)
-- 💻 **GitHub:** [github.com/M4Rk9](https://github.com/M4Rk9)
-
----
-
-<p align="center">
-  <i>“Discipline beats talent when talent doesn’t show up.”</i>
-</p>
+<div align="center">
+  <br />
+  <strong>Engineering reliable systems at the intersection of software, markets, and intelligent automation.</strong>
+  <br /><br />
+  <sub>Live metrics update automatically from public GitHub activity.</sub>
+</div>
