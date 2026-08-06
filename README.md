@@ -12,7 +12,6 @@
   <a href="https://github.com/M4Rk9?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Explore_repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=M4Rk9&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
 
   <br /><br />
 
@@ -89,21 +88,6 @@ An ECE-focused machine-learning pipeline that classifies bearing health using ti
 
 [Explore the ML pipeline →](https://github.com/M4Rk9/bearing-fault-diagnosis)
 
-## Live Developer Telemetry
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=M4Rk9&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ayush's GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4Rk9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=M4Rk9&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=M4Rk9&bg_color=0d1117&color=7dcfff&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Live GitHub contribution activity graph" />
-</div>
-
 ## Current Flight Path
 
 ```text
@@ -117,5 +101,4 @@ An ECE-focused machine-learning pipeline that classifies bearing health using ti
   <br />
   <strong>Engineering reliable systems at the intersection of software, markets, and intelligent automation.</strong>
   <br /><br />
-  <sub>Live metrics update automatically from public GitHub activity.</sub>
 </div>
