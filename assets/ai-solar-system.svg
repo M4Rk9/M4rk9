@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Ayush Mark Hembrom — AI and software engineering solar system</title>
-  <desc id="desc">A dark space-themed developer banner with an artificial intelligence core and orbiting software technologies.</desc>
+  <desc id="desc">A dark developer banner with an artificial intelligence core and technologies moving along precise elliptical orbits.</desc>
 
   <defs>
     <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
@@ -21,6 +21,13 @@
     </linearGradient>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="planetGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -62,46 +69,71 @@
     </g>
   </g>
 
-  <g transform="translate(932 210)">
-    <ellipse rx="105" ry="43" fill="none" stroke="#7dcfff" stroke-opacity="0.26" stroke-width="1.4" transform="rotate(-14)"/>
-    <ellipse rx="158" ry="73" fill="none" stroke="#7aa2f7" stroke-opacity="0.23" stroke-width="1.3" transform="rotate(18)"/>
-    <ellipse rx="213" ry="107" fill="none" stroke="#bb9af7" stroke-opacity="0.2" stroke-width="1.2" transform="rotate(-8)"/>
+  <g transform="translate(945 210)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <!-- Every planet follows the same geometry as its visible orbit. -->
+    <g transform="rotate(-16)">
+      <path d="M115 0 A115 66 0 1 1 -115 0 A115 66 0 1 1 115 0" fill="none" stroke="#7dcfff" stroke-opacity="0.34" stroke-width="1.45"/>
+      <g>
+        <animateMotion path="M115 0 A115 66 0 1 1 -115 0 A115 66 0 1 1 115 0" dur="17s" begin="-3s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
+        <g transform="rotate(16)" filter="url(#planetGlow)">
+          <circle r="15" fill="#f7768e" stroke="#ffd6de" stroke-opacity="0.68"/>
+          <text y="3" text-anchor="middle" fill="#11111b" font-size="8" font-weight="800">JAVA</text>
+        </g>
+      </g>
+    </g>
 
-    <circle r="56" fill="url(#core)" filter="url(#glow)">
-      <animate attributeName="r" values="52;58;52" dur="4s" repeatCount="indefinite"/>
+    <g transform="rotate(13)">
+      <path d="M150 0 A150 82 0 1 0 -150 0 A150 82 0 1 0 150 0" fill="none" stroke="#7aa2f7" stroke-opacity="0.29" stroke-width="1.35"/>
+      <g>
+        <animateMotion path="M150 0 A150 82 0 1 0 -150 0 A150 82 0 1 0 150 0" dur="25s" begin="-12s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
+        <g transform="rotate(-13)" filter="url(#planetGlow)">
+          <circle r="18" fill="#9ece6a" stroke="#d8f5bd" stroke-opacity="0.62"/>
+          <text y="3" text-anchor="middle" fill="#10150d" font-size="7.5" font-weight="800">SPRING</text>
+        </g>
+      </g>
+    </g>
+
+    <g transform="rotate(-7)">
+      <path d="M182 0 A182 98 0 1 1 -182 0 A182 98 0 1 1 182 0" fill="none" stroke="#7dcfff" stroke-opacity="0.25" stroke-width="1.3" stroke-dasharray="3 5"/>
+      <g>
+        <animateMotion path="M182 0 A182 98 0 1 1 -182 0 A182 98 0 1 1 182 0" dur="31s" begin="-21s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
+        <g transform="rotate(7)" filter="url(#planetGlow)">
+          <circle r="16" fill="#7dcfff" stroke="#d5f4ff" stroke-opacity="0.62"/>
+          <text y="3" text-anchor="middle" fill="#07131c" font-size="8" font-weight="800">API</text>
+        </g>
+      </g>
+    </g>
+
+    <g transform="rotate(10)">
+      <path d="M213 0 A213 116 0 1 0 -213 0 A213 116 0 1 0 213 0" fill="none" stroke="#bb9af7" stroke-opacity="0.24" stroke-width="1.25"/>
+      <g>
+        <animateMotion path="M213 0 A213 116 0 1 0 -213 0 A213 116 0 1 0 213 0" dur="38s" begin="-8s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
+        <g transform="rotate(-10)" filter="url(#planetGlow)">
+          <circle r="17" fill="#bb9af7" stroke="#eadcff" stroke-opacity="0.62"/>
+          <text y="3" text-anchor="middle" fill="#150d20" font-size="7.5" font-weight="800">NEXT</text>
+        </g>
+      </g>
+    </g>
+
+    <g transform="rotate(-9)">
+      <path d="M242 0 A242 134 0 1 1 -242 0 A242 134 0 1 1 242 0" fill="none" stroke="#e0af68" stroke-opacity="0.2" stroke-width="1.15" stroke-dasharray="2 7"/>
+      <g>
+        <animateMotion path="M242 0 A242 134 0 1 1 -242 0 A242 134 0 1 1 242 0" dur="46s" begin="-29s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
+        <g transform="rotate(9)" filter="url(#planetGlow)">
+          <circle r="15" fill="#e0af68" stroke="#fff0c9" stroke-opacity="0.62"/>
+          <text y="3" text-anchor="middle" fill="#1d1406" font-size="7.5" font-weight="800">DATA</text>
+        </g>
+      </g>
+    </g>
+
+    <circle r="57" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="53;59;53" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle r="34" fill="#111b38" stroke="#7dcfff" stroke-width="1.5"/>
-    <text x="0" y="7" text-anchor="middle" fill="#e0e7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">AI</text>
-    <text x="0" y="66" text-anchor="middle" fill="#7dcfff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">CORE</text>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
-      <circle cx="105" cy="0" r="15" fill="#f7768e" stroke="#ffd6de" stroke-opacity="0.6"/>
-      <text x="105" y="4" text-anchor="middle" fill="#11111b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="800">JAVA</text>
-    </g>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="90" to="-270" dur="28s" repeatCount="indefinite"/>
-      <circle cx="158" cy="0" r="18" fill="#9ece6a" stroke="#d8f5bd" stroke-opacity="0.55"/>
-      <text x="158" y="3" text-anchor="middle" fill="#10150d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="800">SPRING</text>
-    </g>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="185" to="545" dur="38s" repeatCount="indefinite"/>
-      <circle cx="213" cy="0" r="17" fill="#7dcfff" stroke="#d5f4ff" stroke-opacity="0.55"/>
-      <text x="213" y="3" text-anchor="middle" fill="#07131c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="8" font-weight="800">API</text>
-    </g>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="300" to="-60" dur="34s" repeatCount="indefinite"/>
-      <circle cx="-198" cy="0" r="16" fill="#bb9af7" stroke="#eadcff" stroke-opacity="0.55"/>
-      <text x="-198" y="3" text-anchor="middle" fill="#150d20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="800">NEXT</text>
-    </g>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="45" to="405" dur="31s" repeatCount="indefinite"/>
-      <circle cx="-148" cy="0" r="14" fill="#e0af68" stroke="#fff0c9" stroke-opacity="0.55"/>
-      <text x="-148" y="3" text-anchor="middle" fill="#1d1406" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="800">DATA</text>
-    </g>
+    <circle r="35" fill="#111b38" stroke="#7dcfff" stroke-width="1.6"/>
+    <circle r="45" fill="none" stroke="#7aa2f7" stroke-opacity="0.46" stroke-width="1">
+      <animate attributeName="stroke-opacity" values="0.2;0.65;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="7" text-anchor="middle" fill="#e0e7ff" font-size="22" font-weight="800">AI</text>
+    <text x="0" y="69" text-anchor="middle" fill="#7dcfff" font-size="10" font-weight="700" letter-spacing="2">CORE</text>
   </g>
 </svg>
