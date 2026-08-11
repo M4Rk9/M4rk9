@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ai-solar-system.svg" width="100%" alt="Ayush Mark Hembrom — AI and software engineering solar system" />
+  <img src="./assets/solar-system.svg" width="100%" alt="Ayush Mark Hembrom — AI and software engineering solar system" />
 
   <br />
 
