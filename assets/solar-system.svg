@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Ayush Mark Hembrom — AI and software engineering solar system</title>
-  <desc id="desc">A dark developer banner with an artificial intelligence core and technologies moving along precise elliptical orbits.</desc>
+  <title id="title">Ayush Mark Hembrom — Data Analytics, Financial Analysis and Business Intelligence</title>
+  <desc id="desc">A dark analytics banner with a data core and analytical tools moving along elliptical orbits.</desc>
 
   <defs>
     <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
@@ -55,17 +55,17 @@
   </g>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="72" y="132" fill="#7dcfff" font-size="17" font-weight="700" letter-spacing="4">SOFTWARE · SYSTEMS · INTELLIGENCE</text>
+    <text x="72" y="132" fill="#7dcfff" font-size="16" font-weight="700" letter-spacing="2">DATA · FINANCE · BUSINESS INTELLIGENCE</text>
     <text x="68" y="205" fill="url(#titleGradient)" font-size="52" font-weight="800" letter-spacing="-1">AYUSH MARK HEMBROM</text>
-    <text x="72" y="251" fill="#a9b1d6" font-size="22" font-weight="500">3rd-Year ECE Undergraduate · Full-Stack Developer</text>
-    <text x="72" y="288" fill="#7aa2f7" font-size="18">Java / Spring Boot · Next.js / TypeScript · AI-enabled applications</text>
+    <text x="72" y="251" fill="#a9b1d6" font-size="22" font-weight="500">3rd-Year ECE Undergraduate · Aspiring Analyst</text>
+    <text x="72" y="288" fill="#7aa2f7" font-size="18">Excel · SQL · Python · Power BI · Tableau</text>
 
     <g transform="translate(72 327)">
       <rect width="375" height="42" rx="21" fill="#101a36" stroke="#7aa2f7" stroke-opacity="0.45"/>
       <circle cx="24" cy="21" r="6" fill="#9ece6a" filter="url(#glow)">
         <animate attributeName="opacity" values="1;0.45;1" dur="1.8s" repeatCount="indefinite"/>
       </circle>
-      <text x="42" y="27" fill="#c0caf5" font-size="14" font-weight="650" letter-spacing="1.4">BUILDING RELIABLE PRODUCTS THAT SHIP</text>
+      <text x="42" y="27" fill="#c0caf5" font-size="14" font-weight="650" letter-spacing="1.4">TURNING DATA INTO CLEAR INSIGHTS</text>
     </g>
   </g>
 
@@ -77,7 +77,7 @@
         <animateMotion path="M115 0 A115 66 0 1 1 -115 0 A115 66 0 1 1 115 0" dur="17s" begin="-3s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
         <g transform="rotate(16)" filter="url(#planetGlow)">
           <circle r="15" fill="#f7768e" stroke="#ffd6de" stroke-opacity="0.68"/>
-          <text y="3" text-anchor="middle" fill="#11111b" font-size="8" font-weight="800">JAVA</text>
+          <text y="3" text-anchor="middle" fill="#11111b" font-size="8" font-weight="800">SQL</text>
         </g>
       </g>
     </g>
@@ -88,7 +88,7 @@
         <animateMotion path="M150 0 A150 82 0 1 0 -150 0 A150 82 0 1 0 150 0" dur="25s" begin="-12s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
         <g transform="rotate(-13)" filter="url(#planetGlow)">
           <circle r="18" fill="#9ece6a" stroke="#d8f5bd" stroke-opacity="0.62"/>
-          <text y="3" text-anchor="middle" fill="#10150d" font-size="7.5" font-weight="800">SPRING</text>
+          <text y="3" text-anchor="middle" fill="#10150d" font-size="7.5" font-weight="800">EXCEL</text>
         </g>
       </g>
     </g>
@@ -99,7 +99,7 @@
         <animateMotion path="M182 0 A182 98 0 1 1 -182 0 A182 98 0 1 1 182 0" dur="31s" begin="-21s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
         <g transform="rotate(7)" filter="url(#planetGlow)">
           <circle r="16" fill="#7dcfff" stroke="#d5f4ff" stroke-opacity="0.62"/>
-          <text y="3" text-anchor="middle" fill="#07131c" font-size="8" font-weight="800">API</text>
+          <text y="3" text-anchor="middle" fill="#07131c" font-size="8" font-weight="800">PY</text>
         </g>
       </g>
     </g>
@@ -110,7 +110,7 @@
         <animateMotion path="M213 0 A213 116 0 1 0 -213 0 A213 116 0 1 0 213 0" dur="38s" begin="-8s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
         <g transform="rotate(-10)" filter="url(#planetGlow)">
           <circle r="17" fill="#bb9af7" stroke="#eadcff" stroke-opacity="0.62"/>
-          <text y="3" text-anchor="middle" fill="#150d20" font-size="7.5" font-weight="800">NEXT</text>
+          <text y="3" text-anchor="middle" fill="#150d20" font-size="7.5" font-weight="800">BI</text>
         </g>
       </g>
     </g>
@@ -121,7 +121,7 @@
         <animateMotion path="M242 0 A242 134 0 1 1 -242 0 A242 134 0 1 1 242 0" dur="46s" begin="-29s" repeatCount="indefinite" rotate="0" calcMode="linear"/>
         <g transform="rotate(9)" filter="url(#planetGlow)">
           <circle r="15" fill="#e0af68" stroke="#fff0c9" stroke-opacity="0.62"/>
-          <text y="3" text-anchor="middle" fill="#1d1406" font-size="7.5" font-weight="800">DATA</text>
+          <text y="3" text-anchor="middle" fill="#1d1406" font-size="5.5" font-weight="800">TABLEAU</text>
         </g>
       </g>
     </g>
@@ -133,7 +133,7 @@
     <circle r="45" fill="none" stroke="#7aa2f7" stroke-opacity="0.46" stroke-width="1">
       <animate attributeName="stroke-opacity" values="0.2;0.65;0.2" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <text x="0" y="7" text-anchor="middle" fill="#e0e7ff" font-size="22" font-weight="800">AI</text>
+    <text x="0" y="7" text-anchor="middle" fill="#e0e7ff" font-size="16" font-weight="800">DATA</text>
     <text x="0" y="69" text-anchor="middle" fill="#7dcfff" font-size="10" font-weight="700" letter-spacing="2">CORE</text>
   </g>
 </svg>
